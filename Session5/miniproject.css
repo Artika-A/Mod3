@@ -1,0 +1,9 @@
+
+.weather-container {
+   max-width: 400px;
+   margin: auto;
+   font-family: Arial, sans-serif;
+ }
+ #weatherOutput {
+   margin-top: 20px;
+}
